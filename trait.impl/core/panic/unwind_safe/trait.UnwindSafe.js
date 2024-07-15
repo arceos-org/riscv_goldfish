@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"riscv_goldfish":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/panic/unwind_safe/trait.UnwindSafe.html\" title=\"trait core::panic::unwind_safe::UnwindSafe\">UnwindSafe</a> for <a class=\"struct\" href=\"riscv_goldfish/struct.Rtc.html\" title=\"struct riscv_goldfish::Rtc\">Rtc</a>",1,["riscv_goldfish::Rtc"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
